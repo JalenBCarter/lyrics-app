@@ -10,32 +10,32 @@ let songList = [
   {
       "name": "King of kings",
       "lyricLink": "https://www.azlyrics.com/lyrics/hillsongworship/kingofkings.html",
-      "youtubeLink": "https://www.youtube.com/watch?v=GKE_gkgEac4",
+      "youtubeLink": "https://youtu.be/GKE_gkgEac4",
   },
   {
       "name": "Reckless Love",
       "lyricLink": "https://www.azlyrics.com/lyrics/coryasbury/recklesslove.html",
-      "youtubeLink": "https://www.youtube.com/watch?v=GKE_gkgEac4",
+      "youtubeLink": "https://youtu.be/6xx0d3R2LoU",
   },
   {
       "name": "Jesus paid it all",
       "lyricLink": "https://www.azlyrics.com/lyrics/kimwalkersmith/jesuspaiditall.html",
-      "youtubeLink": "https://www.youtube.com/watch?v=GKE_gkgEac4",
+      "youtubeLink": "https://youtu.be/Ymkl0t0FOcw",
   },
   {
       "name": "No Longer Slaves",
       "lyricLink": "https://www.azlyrics.com/lyrics/bethelmusic/nolongerslaves.html",
-      "youtubeLink": "https://www.youtube.com/watch?v=GKE_gkgEac4",
+      "youtubeLink": "https://youtu.be/2QigyB50yGw",
   },
   {
-      "name": "Build my life",
+      "name": "Build My life",
       "lyricLink": "https://www.azlyrics.com/lyrics/patbarrett/buildmylife.html",
-      "youtubeLink": "https://www.youtube.com/watch?v=GKE_gkgEac4",
+      "youtubeLink": "https://youtu.be/Z32HiCoFzlU",
   },
   {
-      "name": "Way maker",
+      "name": "Way Maker",
       "lyricLink": "https://www.azlyrics.com/lyrics/leeland/waymaker.html",
-      "youtubeLink": "https://www.youtube.com/watch?v=GKE_gkgEac4",
+      "youtubeLink": "https://youtu.be/iJCV_2H9xD0",
   }
 ]
 
