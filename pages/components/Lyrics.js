@@ -12,11 +12,20 @@ function Lyrics(props) {
                 <p className='text-slate-700'>Below you'll find a list of songs with links to the lyrics and other info!</p>
             </div>
 
-            {songs.map((item) => (
+            {
+
+            songs?
+
+            songs.map((item) => (
                 <div key={item.name}>
                     <SongCard name={item.name} lyricLink={item.lyricLink} youtubeLink={item.youtubeLink} />
                 </div>
-            ))}
+            ))
+            
+            :
+
+            <div>No Songs Found...</div>
+            }
         </div>
     )
 }
